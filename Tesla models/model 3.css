@@ -1,0 +1,54 @@
+body{
+    background-color:ghostwhite ;
+    color: black;
+    line-height: 1.6em;
+    margin: auto;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-weight: bold;
+}
+
+
+.container{
+    overflow: hidden;
+    margin:auto;
+    width: 80%;
+}
+
+#navbar{
+	background-color:black;
+	color:#fff;
+	
+}
+
+#navbar ul{
+	padding:0;
+	list-style: none;
+}
+
+#navbar li{
+	display:inline;
+}
+#navbar h1{
+	background-color:ghostwhite ;
+	color: crimson;
+	margin: auto;
+	text-decoration: none;
+		
+}
+#navbar a{
+	color:#fff;
+	text-decoration: none;
+	font-size:18px;
+	padding-right:15px;
+}
+
+img{
+	height:30%;
+	width: 30%;
+
+}
+
+
+
+
+
